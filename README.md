@@ -27,7 +27,7 @@ The goal of this project is to build a scalable and production-ready ML system u
 - Matplotlib / Seaborn
 
 ### ⚙️ Tools & Frameworks
-- Flask / Streamlit (for deployment)
+- Flask (for deployment)
 - Git & GitHub
 - AWS Elastic Beanstalk (Deployment)
 - Logging & Exception Handling
